@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Console Appender for logging to console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <!-- Only print the ThreadContext variables once to avoid redundancy -->
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - [%X{suiteName}] [%X{testName}] - %msg%n</Pattern>
+            </PatternLayout>
+        </Console>
+
+        <!-- File Appender to log messages into a log file -->
+        <File name="File" fileName="logs/app.log">
+            <PatternLayout>
+                <!-- Only print the ThreadContext variables once to avoid redundancy -->
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - [Suite: %X{suiteName}] [Test: %X{testName}] - %msg%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Root logger configuration -->
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+
+        <!-- Specific logger configuration for a specific class -->
+        <Logger name="LogManager" level="debug" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+    </Loggers>
+</Configuration>

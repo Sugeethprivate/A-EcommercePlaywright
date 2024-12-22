@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-21T08:28:45 IST" name="Ecommerce-Playwright Suite" finished-at="2024-12-21T08:29:42 IST" duration-ms="56509">
+    <groups>
+    </groups>
+    <test started-at="2024-12-21T08:28:45 IST" name="Login Tests" finished-at="2024-12-21T08:29:42 IST" duration-ms="56509">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:28:45 IST" name="setup" finished-at="2024-12-21T08:29:17 IST" duration-ms="31286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:17 IST" name="testValidLogin" data-provider="ValidLoginData" finished-at="2024-12-21T08:29:20 IST" duration-ms="3512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:25 IST" name="tearDown" finished-at="2024-12-21T08:29:26 IST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:26 IST" name="setup" finished-at="2024-12-21T08:29:29 IST" duration-ms="2770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:29 IST" name="testValidLogin" data-provider="ValidLoginData" finished-at="2024-12-21T08:29:30 IST" duration-ms="1075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:31 IST" name="tearDown" finished-at="2024-12-21T08:29:31 IST" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:31 IST" name="setup" finished-at="2024-12-21T08:29:34 IST" duration-ms="2643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:34 IST" name="testValidLogin" data-provider="ValidLoginData" finished-at="2024-12-21T08:29:40 IST" duration-ms="5752" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@6f15d60e]" started-at="2024-12-21T08:29:41 IST" name="tearDown" finished-at="2024-12-21T08:29:42 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Login Tests -->
+  </suite> <!-- Ecommerce-Playwright Suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+{
+	"baseUrl": "https://www.saucedemo.com/v1/",
+	"browser": "chrome",
+	"headless": true,
+	"application": "Saucedemo",
+	"tester":"Sugeeth V",
+	"environment":"QA",
+	"takeScreenshotOnPass":"no",
+	"takeScreenshotOnFail":"no",
+	"adoPatToken":"5lk3Y57gO2yZ2efLAf8o0JWfamRfttR3tRsafgmldibjcgraCHFuJQQJ99ALACAAAAAAAAAAAAASAZDOu41z",
+	"adoOrgUrl":"https://dev.azure.com/sugeethv",
+	"adoProjectName":"Ecommerce%20Testing"
+}

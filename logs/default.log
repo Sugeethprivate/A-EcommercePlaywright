@@ -1,0 +1,16 @@
+2024-12-08 13:31:32 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-08 13:31:32 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-08 13:31:33 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Typed text into element: //input[@id='user-name']
+2024-12-08 13:31:33 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Typed text into element: //input[@id='user-name']
+2024-12-08 13:31:33 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Typed text into element: //input[@id='password']
+2024-12-08 13:31:33 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Typed text into element: //input[@id='password']
+2024-12-08 13:31:34 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Clicked on element: //input[@id='login-button']
+2024-12-08 13:31:34 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Clicked on element: //input[@id='login-button']
+2024-12-08 13:33:54 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-08 13:33:54 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-08 13:33:55 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Typed text into element: //input[@id='user-name']
+2024-12-08 13:33:55 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Typed text into element: //input[@id='user-name']
+2024-12-08 13:33:55 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Typed text into element: //input[@id='password']
+2024-12-08 13:33:55 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Typed text into element: //input[@id='password']
+2024-12-08 13:33:55 [TestNG-test=Login Tests-2] INFO  [Playwright Suite] [testValidLogin] utils.LogManager - [Suite: Playwright Suite] [Test: testValidLogin] Clicked on element: //input[@id='login-button']
+2024-12-08 13:33:55 [TestNG-test=Login Tests-1] INFO  [Playwright Suite] [testInValidTitle] utils.LogManager - [Suite: Playwright Suite] [Test: testInValidTitle] Clicked on element: //input[@id='login-button']

@@ -2,7 +2,6 @@
 <suite name="Ecommerce-Playwright Suite" parallel="methods" thread-count="3">
     <listeners>
         <listener class-name="listeners.ExtentReportListener" />
-<!--        <listener class-name="listeners.ADOUpdateListener" />          -->
     </listeners>
     <test name="Login Tests">
         <classes>

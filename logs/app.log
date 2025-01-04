@@ -448,3 +448,869 @@
 2024-12-29 11:57:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
 2024-12-29 11:57:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
 2024-12-29 11:57:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2024-12-29 12:00:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-29 12:00:02 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2024-12-29 12:00:28 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2024-12-29 12:00:58 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-5516644138023137659\package\lib\server\progress.js:75:26)
+    at Frame.goto (C:\Users\HP\AppData\Local\Temp\playwright-java-5516644138023137659\package\lib\server\frames.js:521:23)
+    at FrameDispatcher.goto (C:\Users\HP\AppData\Local\Temp\playwright-java-5516644138023137659\package\lib\server\dispatchers\frameDispatcher.js:82:119)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-5516644138023137659\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-5516644138023137659\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2024-12-29 12:01:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2024-12-29 12:01:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2024-12-29 12:01:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2024-12-29 12:01:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2024-12-29 12:01:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2024-12-29 12:01:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-29 12:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2024-12-29 12:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2024-12-29 12:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2024-12-29 12:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2024-12-29 12:01:10 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2024-12-29 12:01:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-29 12:01:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2024-12-29 12:01:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2024-12-29 12:01:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2024-12-29 12:01:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2024-12-29 12:02:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-29 12:02:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2024-12-29 12:02:50 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2024-12-29 12:03:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-29 12:03:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2024-12-29 12:03:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2024-12-29 12:03:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2024-12-29 12:03:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2024-12-29 12:03:13 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2024-12-29 12:03:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-29 12:03:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2024-12-29 12:03:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2024-12-29 12:03:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2024-12-29 12:03:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2024-12-29 12:03:15 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2024-12-29 12:03:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2024-12-29 12:03:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2024-12-29 12:03:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2024-12-29 12:03:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2024-12-29 12:03:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 13:57:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 13:57:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 13:57:32 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 13:57:32 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 13:58:02 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 13:58:32 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-11062978146113686557\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='password']")
+
+2025-01-04 13:59:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 13:59:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 13:59:41 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 13:59:41 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 13:59:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 13:59:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 13:59:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 13:59:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 13:59:52 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 13:59:52 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 13:59:55 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 13:59:55 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 13:59:55 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-6248415955062299609\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 13:59:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 14:00:09 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:00:09 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:00:36 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:00:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:00:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:00:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2025-01-04 14:00:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:00:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:00:49 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:00:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:00:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:00:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2025-01-04 14:00:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:00:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:01:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:01:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:01:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:01:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2025-01-04 14:01:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:01:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:12:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:12:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:13:30 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:13:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:13:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:13:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2025-01-04 14:13:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:13:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:13:37 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:13:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:13:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:13:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2025-01-04 14:13:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:13:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:13:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:13:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:13:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:13:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2025-01-04 14:13:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:13:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:14:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:14:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:14:54 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:14:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:14:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:14:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2025-01-04 14:14:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:14:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:15:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:15:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:15:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:15:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2025-01-04 14:15:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:15:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:15:04 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:15:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:15:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:15:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2025-01-04 14:15:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:15:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:16:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:16:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:16:52 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:16:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:16:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:16:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2025-01-04 14:16:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:16:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:16:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:16:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:16:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:16:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2025-01-04 14:16:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:16:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:17:01 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:17:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:17:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:17:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2025-01-04 14:17:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:17:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:19:44 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:19:44 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:20:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:20:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:20:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:20:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2025-01-04 14:20:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:20:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:20:13 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2025-01-04 14:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:20:20 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:20:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:20:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:20:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2025-01-04 14:20:22 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:20:22 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:23:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:23:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:24:25 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:24:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:24:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:24:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='password']
+2025-01-04 14:24:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:24:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:24:34 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:24:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:24:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:24:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='password']
+2025-01-04 14:24:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:24:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:24:38 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:24:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:24:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:24:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='password']
+2025-01-04 14:24:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:24:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:32:14 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:32:14 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:33:35 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:33:35 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:34:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:34:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:34:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:34:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed testcase into element: //input[@id='password']
+2025-01-04 14:34:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:34:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:34:06 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:34:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:34:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:34:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed testcase into element: //input[@id='password']
+2025-01-04 14:34:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:34:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:34:12 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:34:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:34:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='user-name']
+2025-01-04 14:34:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed testcase into element: //input[@id='password']
+2025-01-04 14:34:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:34:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:39:56 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:39:56 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:40:22 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:40:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:40:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 14:40:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 14:40:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:40:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:40:28 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 14:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 14:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:40:32 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:40:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:40:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 14:40:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 14:40:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:40:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:45:23 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:45:23 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:45:50 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:45:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:45:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 14:45:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 14:45:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:45:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:45:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:45:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:45:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 14:45:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 14:45:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:45:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:46:01 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:46:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 14:46:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 14:46:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 14:46:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 14:46:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 14:54:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:54:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:54:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:54:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 14:54:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:54:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 14:54:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:54:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 14:56:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 14:56:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 14:56:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 14:56:40 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 14:57:10 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 14:57:40 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-2108323594902582819\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='password']")
+
+2025-01-04 15:00:53 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:00:53 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:01:18 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:01:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-3708276019050025105\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-3708276019050025105\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 15:03:50 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:03:50 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:04:11 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:04:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:04:11 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:04:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:04:11 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:04:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:04:41 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:04:41 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:05:05 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:05:08 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\chromium\crPage.js:512:35)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at process.processImmediate (node:internal/timers:459:9)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 15:05:38 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 15:05:48 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='password']")
+
+2025-01-04 15:05:48 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-7492549403346482615\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:05:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 15:05:52 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:06:42 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:06:42 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:07:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:07:10 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 15:07:23 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 15:07:23 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:07:23 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-7607805138058168247\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:07:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 15:08:32 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:08:32 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:08:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:08:59 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 15:09:27 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 15:09:27 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:09:27 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-11226672541899987037\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:09:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 15:10:07 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:10:07 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:10:29 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:10:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:10:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 15:10:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:10:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:10:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:10:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:10:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:10:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 15:10:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:10:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:10:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:10:38 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:10:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:10:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 15:10:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:10:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:10:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:12:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:12:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:13:15 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:13:18 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 15:13:48 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 15:13:58 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='password']")
+
+2025-01-04 15:13:58 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:13:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 15:14:02 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:14:04 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_ABORTED; maybe frame was detached?
+  name='Error
+  stack='Error: net::ERR_ABORTED; maybe frame was detached?
+    at FrameManager.frameAbortedNavigation (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\frames.js:220:14)
+    at FrameManager.requestFailed (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\frames.js:280:12)
+    at CRNetworkManager._onLoadingFailed (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\chromium\crNetworkManager.js:517:134)
+    at CRSession.emit (node:events:518:28)
+    at C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\chromium\crConnection.js:160:14
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 15:14:04 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:14:04 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:14:04 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-18394511440360754361\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 15:14:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 15:20:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:20:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:20:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:20:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:20:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:20:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:20:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:20:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:24:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:24:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:24:23 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:24:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:24:23 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:24:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:24:23 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:24:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-04 15:33:37 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:33:37 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:34:05 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:34:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:34:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 15:34:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:34:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:34:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:34:12 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:34:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:34:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 15:34:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:34:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:34:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:34:16 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:34:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:34:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 15:34:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:34:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:34:22 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:55:26 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 15:55:26 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 15:55:54 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:55:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:55:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 15:55:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:55:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:55:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:56:01 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:56:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:56:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 15:56:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:56:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:56:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 15:56:06 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 15:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 15:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 15:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 15:56:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 15:56:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:11:54 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 16:11:54 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 16:12:20 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:12:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-04 16:12:27 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError:Target page, context or browser has been closed
+Error
+    at captureRawStack (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\utils\stackTrace.js:50:17)
+    at LongStandingScope._race (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\utils\manualPromise.js:91:52)
+    at LongStandingScope.race (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\utils\manualPromise.js:84:17)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\server\dispatchers\dispatcher.js:96:36)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-04 16:12:27 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 16:12:27 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\server\dispatchers\dispatcher.js:273:44)
+    at transport.onmessage (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\HP\AppData\Local\Temp\playwright-java-17231806015639688848\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:491:21)
+}
+2025-01-04 16:12:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-04 16:12:48 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 16:12:48 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 16:13:09 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:13:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:13:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 16:13:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:13:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:13:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:13:48 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 16:13:48 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 16:14:09 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:14:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:14:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 16:14:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:14:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:14:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:14:14 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:14:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:14:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 16:14:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:14:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:14:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:14:18 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:14:19 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:14:19 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 16:14:19 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:14:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:14:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:16:47 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 16:16:47 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 16:17:10 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:17:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:17:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 16:17:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:17:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:17:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:17:17 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:17:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:17:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 16:17:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:17:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:17:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:17:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:17:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:17:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 16:17:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:17:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:17:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:39:55 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 16:39:55 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 16:40:28 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:40:28 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 16:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:40:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:40:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:40:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:40:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-04 16:40:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:40:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:40:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:40:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:40:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:40:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-04 16:40:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:40:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:40:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 16:46:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 16:46:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 16:46:32 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 16:46:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 16:46:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 16:46:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 16:46:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 16:46:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........

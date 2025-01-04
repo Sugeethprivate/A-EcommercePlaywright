@@ -53,7 +53,6 @@ public class BasePage {
         }
     }
 
-    // Element Interaction Methods
     public void clickElement(String selector) {
         try {
             page.click(selector);
@@ -108,7 +107,6 @@ public class BasePage {
         }
     }
 
-    // Waiting Methods
     public void waitForElement(String selector) {
         try {
             page.waitForSelector(selector);

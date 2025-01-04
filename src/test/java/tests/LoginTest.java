@@ -8,7 +8,7 @@ import pages.LoginPage;
 
 public class LoginTest extends BaseTest {
 
-    @Test(dataProvider = "singleLoginData", dataProviderClass = ExcelDataProvider.class,groups = "sanity")
+    @Test(dataProvider = "singleLoginData", dataProviderClass = ExcelDataProvider.class)
     public void testValidLogin(String testcaseid, String password, String description, String username) {
         LoginPage loginPage = new LoginPage(getPage());
         loginPage.navigateToApp();

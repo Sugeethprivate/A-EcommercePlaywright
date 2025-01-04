@@ -1343,3 +1343,29 @@ Call log:
 2025-01-04 17:43:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
 2025-01-04 17:43:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
 2025-01-04 17:43:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 17:50:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 17:50:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 17:50:36 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 17:50:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 17:50:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 17:50:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 17:50:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 17:50:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 18:00:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 18:00:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 18:02:03 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 18:02:03 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 18:02:26 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 18:02:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 18:02:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 18:02:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 18:02:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 18:02:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 18:14:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 18:14:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 18:14:45 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 18:14:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........

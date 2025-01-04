@@ -51,5 +51,15 @@ public class ScreenshotHelper {
 
     }
 
+    public static void screenshotSkip() {
+        Page page = BaseTest.getPage();
+        if (page != null) {
+            ScreenshotHelper.captureScreenshotIfEnabled(page, "fail");
+        } else {
+            LogManager.logInfo("Page object is null. Skipping screenshot.");
+        }
+
+    }
+
 
 }

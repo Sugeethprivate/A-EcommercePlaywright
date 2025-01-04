@@ -86,6 +86,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
         test.get().skip(result.getThrowable());
         test.get().skip("Test skipped");
         LogManager.logConsole("Test Skipped...........");
+        ScreenshotHelper.screenshotSkip();
         ThreadContext.clearAll();
     }
 
@@ -103,7 +104,6 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
     public void onFinish(ITestContext context) {
     }
 
-    // Method to access the current thread's ExtentTest
     public static ThreadLocal<ExtentTest> getTest() {
         return test;
     }

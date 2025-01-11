@@ -35,7 +35,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
         String timestamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
         String reportPath = "./ExtentReports/ExtentReport_" + timestamp + ".html";
         ExtentSparkReporter htmlReporter = new ExtentSparkReporter(reportPath);
-        htmlReporter.config().setTheme(Theme.DARK);
+        htmlReporter.config().setTheme(Theme.STANDARD);
         htmlReporter.config().setDocumentTitle("Test Report");
         htmlReporter.config().setReportName("Test Execution Report");
         extent = new ExtentReports();

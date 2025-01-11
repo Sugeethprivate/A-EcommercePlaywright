@@ -58,7 +58,6 @@ public class BaseTest {
 
     @AfterMethod
     public void logTestResultToExcel(Method method, ITestResult result) {
-        System.out.println(result);
         String testCaseId = "TC-" + result.getMethod().getMethodName().toUpperCase();
         String methodName = method.getName();
         String status = result.isSuccess() ? "PASS" : "FAIL";

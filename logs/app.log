@@ -4546,3 +4546,650 @@ Call log:
 2025-01-11 21:28:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
 2025-01-11 21:28:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
 2025-01-11 21:28:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:06:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:06:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:06:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:06:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:06:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:06:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:07:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:04 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 22:07:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:07:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:07:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:07 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:07:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:07:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:09:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:09:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:09:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:09:47 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:09:47 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:09:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:09:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:09:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:09:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:09:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:09:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:09:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:09:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:09:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:09:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:53 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:09:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:55 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:09:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:09:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:09:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:09:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:09:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:10:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:10:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:10:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:10:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:10:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:10:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:10:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:26 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:10:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:10:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:10:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:10:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:10:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:10:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:10:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:19:41 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:20:13 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:20:13 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:20:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:20:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:20:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:20:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:20:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:20:22 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:20:23 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:20:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:20:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:20:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:20:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:20:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:20:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:20:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:20:51 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:20:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:20:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:20:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:20:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:53 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:20:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:20:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:20:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:20:57 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:21:23 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\progress.js:75:26)
+    at Frame.goto (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:521:23)
+    at FrameDispatcher.goto (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\frameDispatcher.js:82:119)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-11 22:21:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:21:53 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+-     - waiting for" https://www.saucedemo.com/v1/" navigation to finish...
+
+2025-01-11 22:21:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:22:23 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='password']")
+-     - waiting for" https://www.saucedemo.com/v1/" navigation to finish...
+
+2025-01-11 22:22:23 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:22:53 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to click on element: //input[@id='login-button'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\progress.js:75:26)
+    at Frame.click (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:1022:23)
+    at FrameDispatcher.click (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\frameDispatcher.js:158:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='login-button']")
+
+2025-01-11 22:22:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:22:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:22:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:22:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:22:56 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:22:56 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - Error {
+  message='net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+  name='Error
+  stack='Error: net::ERR_INTERNET_DISCONNECTED at https://www.saucedemo.com/v1/
+    at FrameSession._navigate (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\chromium\crPage.js:512:35)
+    at async Frame._gotoAction (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:540:28)
+}
+Call log:
+-   - navigating to "https://www.saucedemo.com/v1/", waiting until "load"
+
+2025-01-11 22:22:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:23:26 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to type text into element: //input[@id='user-name'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='user-name']")
+
+2025-01-11 22:23:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:23:56 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Failed to type text into element: //input[@id='password'] - Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\progress.js:75:26)
+    at Frame.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\frames.js:1072:23)
+    at FrameDispatcher.fill (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\frameDispatcher.js:170:30)
+    at FrameDispatcher._handleCommand (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\HP\AppData\Local\Temp\playwright-java-16082081319738355474\package\lib\server\dispatchers\dispatcher.js:361:39)
+}
+Call log:
+-   - waiting for locator("//input[@id='password']")
+
+2025-01-11 22:23:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Page object is null. Skipping screenshot.
+2025-01-11 22:27:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 22:27:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:27:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:27:34 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:34 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:27:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:27:36 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:41 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:41 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:43 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:43 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:46 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:49 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 22:27:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:27:53 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:27:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:27:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:27:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:27:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:27:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:27:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:28:01 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:28:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:28:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 22:28:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:28:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:28:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:28:07 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:33:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 22:33:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:33:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:34:09 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:34:09 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:34:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:34:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:34:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:34:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:34:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:34:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:34:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:34:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:34:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 22:34:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:34:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:34:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:34:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:34:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:43:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 22:43:28 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:43:28 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:43:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:43:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:43:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:43:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:43:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:43:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:43:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:43:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:43:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:43:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:43:30 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 22:43:31 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 22:46:07 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:46:07 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:46:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 22:46:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 22:46:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........

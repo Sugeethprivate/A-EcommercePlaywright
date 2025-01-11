@@ -29,5 +29,12 @@
         <Logger name="LogManager" level="debug" additivity="false">
             <AppenderRef ref="Console"/>
         </Logger>
+
+        <!-- Specific logger configuration for Apache POI to suppress debug logs -->
+        <Logger name="org.apache.poi" level="warn" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Logger>
+
     </Loggers>
 </Configuration>

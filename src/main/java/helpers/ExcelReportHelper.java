@@ -12,7 +12,7 @@ public class ExcelReportHelper {
     private static final String FILE_PATH = "C:/Users/HP/eclipse-workspace/EcommercePlaywright-Java/ExcelReports/EcommerceTestResults.xlsx";
     private static int rowCount = 1;
 
-    public static void createExcelReport(String sheetName) {
+    public static synchronized void createExcelReport(String sheetName) {
         workbook = new XSSFWorkbook();
         sheet = workbook.createSheet(sheetName);
 
@@ -24,7 +24,7 @@ public class ExcelReportHelper {
         saveToExcelReport();
     }
 
-    public static void updateExcelReport(String testCaseId, String methodName, String status) {
+    public static synchronized void updateExcelReport(String testCaseId, String methodName, String status) {
         Row row = sheet.createRow(rowCount++);
         row.createCell(0).setCellValue(testCaseId);
         row.createCell(1).setCellValue(methodName);
@@ -32,15 +32,15 @@ public class ExcelReportHelper {
         saveToExcelReport();
     }
 
-    private static void saveToExcelReport() {
-        try (FileOutputStream fileOut = new FileOutputStream(new File(FILE_PATH))) {
+    private static synchronized void saveToExcelReport() {
+        try (FileOutputStream fileOut = new FileOutputStream(FILE_PATH)) {
             workbook.write(fileOut);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public static void closeExcelReport() {
+    public static synchronized void closeExcelReport() {
         try {
             if (workbook != null) {
                 workbook.close();

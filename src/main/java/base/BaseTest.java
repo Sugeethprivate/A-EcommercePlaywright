@@ -1,9 +1,12 @@
 package base;
 
 import com.microsoft.playwright.*;
+import helpers.ExcelReportHelper;
+import org.testng.ITestResult;
+import org.testng.annotations.*;
 import utils.ConfigReader;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+
+import java.lang.reflect.Method;
 
 
 public class BaseTest {
@@ -42,4 +45,24 @@ public class BaseTest {
         if (browserThreadLocal.get() != null) browserThreadLocal.get().close();
         if (playwrightThreadLocal.get() != null) playwrightThreadLocal.get().close();
     }
+
+    @BeforeSuite
+    public void setupExcelReport() {
+        ExcelReportHelper.createExcelReport("ValidationResults");
+    }
+
+    @AfterSuite
+    public void tearDownExcelReport() {
+        ExcelReportHelper.closeExcelReport();
+    }
+
+    @AfterMethod
+    public void logTestResultToExcel(Method method, ITestResult result) {
+        System.out.println(result);
+        String testCaseId = "TC-" + result.getMethod().getMethodName().toUpperCase();
+        String methodName = method.getName();
+        String status = result.isSuccess() ? "PASS" : "FAIL";
+        ExcelReportHelper.updateExcelReport(testCaseId, methodName, status);
+    }
+
 }

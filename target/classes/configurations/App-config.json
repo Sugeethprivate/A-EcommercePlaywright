@@ -8,5 +8,5 @@
 	"environment":"QA",
 	"takeScreenshotOnPass":"no",
 	"takeScreenshotOnFail":"no",
-	"testRetryCountOnFail": 0
+	"testRetryCountOnFail": 1
 }

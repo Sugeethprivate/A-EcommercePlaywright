@@ -40,11 +40,11 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
         htmlReporter.config().setReportName("Test Execution Report");
         extent = new ExtentReports();
         extent.attachReporter(htmlReporter);
-        extent.setSystemInfo("Environment", runEnvironment);
-        extent.setSystemInfo("Tester", testerName);
-        extent.setSystemInfo("Application", appName);
-        extent.setSystemInfo("OS", System.getProperty("os.name"));
-        extent.setSystemInfo("Browser", ConfigReader.get("browser"));
+        extent.setSystemInfo("\uD83C\uDF10 Environment ", runEnvironment);
+        extent.setSystemInfo("\uD83D\uDC68\u200D\uD83D\uDCBC Tester ", testerName);
+        extent.setSystemInfo("\uD83D\uDCBB Application", appName);
+        extent.setSystemInfo("\uD83D\uDDA5\uFE0F OS", System.getProperty("os.name"));
+        extent.setSystemInfo("\uD83D\uDCF1 Browser", ConfigReader.get("browser"));
     }
 
     @Override
@@ -58,7 +58,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
         testName.set(result.getMethod().getMethodName());
         ExtentTest extentTest = extent.createTest(result.getMethod().getMethodName());
         test.set(extentTest);
-        test.get().pass("Test started");
+        test.get().pass("Test started \uD83D\uDE42");
         LogManager.logConsole("Test Started...........");
         ThreadContext.put("suiteName", result.getTestContext().getSuite().getName());
         ThreadContext.put("testName", result.getMethod().getMethodName());
@@ -66,7 +66,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
 
     @Override
     public void onTestSuccess(ITestResult result) {
-        test.get().pass("Test passed");
+        test.get().pass("Test passed \uD83D\uDE00");
         LogManager.logConsole("Test Success...........");
         ScreenshotHelper.screenshotPass();
         ThreadContext.clearAll();
@@ -75,7 +75,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
     @Override
     public void onTestFailure(ITestResult result) {
         test.get().fail(result.getThrowable());
-        test.get().fail("Test failed");
+        test.get().fail("Test failed \uD83D\uDE2C");
         LogManager.logConsole("Test failure...........");
         ScreenshotHelper.screenshotFail();
         ThreadContext.clearAll();
@@ -84,7 +84,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
     @Override
     public void onTestSkipped(ITestResult result) {
         test.get().skip(result.getThrowable());
-        test.get().skip("Test skipped");
+        test.get().skip("Test skipped \uD83D\uDE35");
         LogManager.logConsole("Test Skipped...........");
         ScreenshotHelper.screenshotSkip();
         ThreadContext.clearAll();

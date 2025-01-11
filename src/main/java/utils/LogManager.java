@@ -15,24 +15,24 @@ public class LogManager {
     }
 
     public static void logInfo(String message) {
-        logToExtentReport(Status.INFO, message);
+        logToExtentReport(Status.INFO, message + " ℹ\uFE0F");
         logToConsole("INFO", message);
     }
 
     public static void logPass(String message) {
-        logToExtentReport(Status.PASS, message);
+        logToExtentReport(Status.PASS, message + " ✔\uFE0F");
         logToConsole("PASS", message);
         ScreenshotHelper.screenshotPass();
     }
 
     public static void logFail(String message) {
-        logToExtentReport(Status.FAIL, message);
+        logToExtentReport(Status.FAIL, message+" ✖\uFE0F");
         logToConsole("FAIL", message);
         ScreenshotHelper.screenshotFail();
     }
 
     public static void logSkip(String message) {
-        logToExtentReport(Status.SKIP, message);
+        logToExtentReport(Status.SKIP, message+" \uD83D\uDD02");
         logToConsole("SKIP", message);
     }
 

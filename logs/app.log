@@ -1369,3 +1369,1119 @@ Call log:
 2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
 2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
 2025-01-04 18:14:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-04 18:18:54 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 18:18:54 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-04 18:19:26 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-04 18:19:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-04 18:19:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-04 18:19:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-04 18:19:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-04 18:19:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 12:31:24 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 12:31:24 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 12:31:48 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 12:31:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 12:31:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 12:31:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 12:31:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 12:31:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 13:27:22 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 13:27:22 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 13:27:47 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 13:27:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 13:27:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 13:27:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 13:27:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 13:27:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 13:58:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 13:58:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 13:58:43 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 13:58:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 13:58:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 13:58:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 13:58:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 13:58:45 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:00:43 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:00:43 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:01:12 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:01:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:01:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:01:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:01:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:01:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 14:02:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:02:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:03:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:03:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:03:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:03:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:03:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:03:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:04:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:04:01 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:04:23 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:04:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:04:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:04:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:04:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:04:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:07:52 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:07:52 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:08:20 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:08:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:08:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:08:25 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:08:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:08:28 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:10:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:10:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:11:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:11:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:11:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:11:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:11:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:11:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 14:39:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 14:39:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:39:24 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:39:52 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:39:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:39:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:39:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:39:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:39:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:39:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:39:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:44:04 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 14:44:04 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:44:05 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:44:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:44:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:44:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:44:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:44:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:44:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:44:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:44:38 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:47:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:47:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:47:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:47:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:47:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:47:45 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:47:45 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:47:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:47:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:47:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:47:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 14:47:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:47:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:47:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:47:51 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:50:34 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:51:02 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:51:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:51:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:51:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:51:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:51:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:51:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:51:07 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:51:07 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:51:17 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:51:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:51:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:51:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:51:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:51:19 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:51:19 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:51:20 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:55:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:56:03 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:56:03 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:56:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:56:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:56:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:56:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 14:56:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:56:08 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:59:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:59:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:59:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 14:59:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:59:15 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 14:59:36 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:59:36 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 14:59:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:59:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:59:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:59:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:59:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:59:50 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:59:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 14:59:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 14:59:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 14:59:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 14:59:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 14:59:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:05:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:05:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 15:05:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 15:05:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 15:05:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 15:05:58 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:05:58 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:05:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:06:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:06:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:06:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:06:02 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:06:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:06:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 15:06:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:06:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:06:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:06:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:06:04 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:06:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:06:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 15:06:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:06:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:06:10 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:06:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 15:11:10 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 15:11:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:11:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:11:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 15:11:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:11:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:11:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:11:36 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:11:37 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:11:39 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:11:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:11:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 15:11:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:11:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:11:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:11:40 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:11:41 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:11:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:11:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 15:11:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:11:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:11:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:11:47 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 15:18:24 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 15:18:48 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:18:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:18:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 15:18:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:18:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:18:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:18:54 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:18:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:18:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 15:18:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:18:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:18:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:18:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:18:56 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:18:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:18:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 15:18:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:18:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:19:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:19:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:34:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 15:34:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 15:34:23 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 15:34:47 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:34:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:34:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 15:34:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:34:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:34:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:34:53 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:34:55 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:34:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:34:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 15:34:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:34:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:34:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:34:55 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:34:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:34:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:34:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 15:34:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:34:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:35:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:35:02 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:35:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 15:54:45 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 15:55:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:55:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:55:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 15:55:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:55:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:55:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:55:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:55:14 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:55:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:55:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed problem_user into element: //input[@id='user-name']
+2025-01-11 15:55:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:55:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:55:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:55:15 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:55:16 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 15:55:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 15:55:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-11 15:55:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 15:55:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 15:55:22 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 15:55:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 16:04:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 16:04:48 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 16:04:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 16:04:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 16:04:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 16:04:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 16:04:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:04:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:15:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 16:15:48 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 16:15:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 16:16:09 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 16:16:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 16:16:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 16:16:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 16:16:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 16:16:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:16:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:30:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 16:30:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 16:30:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 16:30:52 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 16:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 16:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 16:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 16:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 16:30:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:30:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 16:40:32 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 16:40:55 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 16:40:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 16:40:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 16:40:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 16:41:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 16:41:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:41:01 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:56:10 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:56:11 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 16:56:11 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 16:56:34 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 16:56:37 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 16:56:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 16:56:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 16:56:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 16:56:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 16:56:39 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:12:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 17:12:27 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 17:12:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 17:12:54 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:12:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:12:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:12:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:12:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:12:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:12:59 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:13:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:13:02 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:13:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:13:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:13:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:13:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:13:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:13:03 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 17:18:52 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 17:19:17 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:19:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:19:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:19:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:19:21 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:19:22 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:19:22 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:19:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:19:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:19:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:19:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:19:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:19:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:19:24 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:19:26 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:19:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:19:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:19:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:19:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:19:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:19:26 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 17:24:54 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 17:25:09 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:25:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:25:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:25:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:25:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:25:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:25:13 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:25:15 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:25:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:25:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:25:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:25:15 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:25:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:25:16 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:25:17 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:25:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:25:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:25:17 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:25:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:25:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:25:18 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:32:44 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:32:45 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 17:32:45 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 17:33:05 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:33:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:33:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:33:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:33:08 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:33:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:33:09 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:33:11 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:33:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:33:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:33:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:33:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:33:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:33:12 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:33:13 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:33:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:33:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:33:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:33:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:33:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:33:14 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 17:34:42 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 17:34:58 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:34:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:34:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:34:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:34:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:35:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:35:00 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save core properties part
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-11 17:36:06 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - [Suite: ] [Test: ] - Parsing relationship: /_rels/.rels
+2025-01-11 17:36:26 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-11 17:36:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-11 17:36:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-11 17:36:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-11 17:36:28 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-11 17:36:28 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:36:28 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save content types part
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save package relationships
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/app.xml'
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'docProps/core.xml'
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/sharedStrings.xml'
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/styles.xml'
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/workbook.xml'
+2025-01-11 17:36:29 DEBUG org.apache.poi.openxml4j.opc.ZipPackage - [Suite: ] [Test: ] - Save part 'xl/worksheets/sheet1.xml'

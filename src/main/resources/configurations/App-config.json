@@ -1,11 +1,12 @@
 {
 	"baseUrl": "https://www.saucedemo.com/v1/",
 	"browser": "chrome",
-	"headless": false,
+	"headless": true,
 	"proxy": "null",
 	"application": "Saucedemo",
 	"tester":"Sugeeth V",
 	"environment":"QA",
 	"takeScreenshotOnPass":"no",
-	"takeScreenshotOnFail":"no"
+	"takeScreenshotOnFail":"no",
+	"testRetryCountOnFail": 1
 }

@@ -5331,3 +5331,431 @@ Call log:
 2025-01-12 00:08:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
 2025-01-12 00:08:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
 2025-01-12 00:08:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-12 12:30:53 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 12:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 12:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 12:30:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 12:30:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-12 12:30:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-12 12:30:59 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 12:30:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 12:31:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 12:31:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 12:31:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-12 12:31:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-12 12:31:02 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 12:31:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 12:31:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 12:31:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 12:31:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-12 12:31:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-12 14:27:48 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:27:48 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:27:52 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:27:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-12 14:27:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-12 14:27:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:27:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:27:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:27:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:27:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:27:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:27:59 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:27:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:27:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 14:27:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:27:59 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:28:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:28:01 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:28:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:28:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 14:28:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:28:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:28:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:45:25 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:25 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 14:45:29 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Skipped...........
+2025-01-12 14:45:32 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:32 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 14:45:32 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test failure...........
+2025-01-12 14:45:34 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:34 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Skipped...........
+2025-01-12 14:45:36 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test failure...........
+2025-01-12 14:45:38 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:38 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Skipped...........
+2025-01-12 14:45:40 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:40 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test failure...........
+2025-01-12 14:45:42 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Skipped...........
+2025-01-12 14:45:44 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:45:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test failure...........
+2025-01-12 14:48:25 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:48:25 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:48:26 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:48:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-12 14:48:27 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-12 14:48:30 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:48:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:48:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:48:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:48:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:48:31 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:48:33 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:48:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:48:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 14:48:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:48:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:48:33 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:48:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:48:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:48:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 14:48:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:48:36 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:48:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 14:56:30 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:56:53 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:56:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:56:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:56:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:56:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:56:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:57:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:57:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:57:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 14:57:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:57:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:57:01 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:57:03 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:57:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:57:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 14:57:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:57:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:57:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 14:58:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 14:58:49 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:58:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:58:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 14:58:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:58:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:58:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:58:53 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:58:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:58:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 14:58:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:58:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:58:54 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 14:58:56 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 14:58:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 14:58:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 14:58:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 14:58:57 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 14:59:02 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:00:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:01:03 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:01:03 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:01:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:01:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:01:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:01:04 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:01:06 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:01:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:01:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 15:01:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:01:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:01:07 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:01:08 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 15:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:01:09 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:01:14 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:03:50 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:03:50 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:03:51 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:03:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-12 15:03:53 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-12 15:03:55 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:03:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:03:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:03:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:03:55 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:03:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:03:57 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:03:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:03:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 15:03:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:03:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:03:58 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:04:00 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:04:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:04:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 15:04:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:04:00 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:04:05 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:07:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:08:10 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:08:11 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:08:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:08:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:08:12 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:08:13 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:08:16 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:08:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:08:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 15:08:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:08:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:08:16 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:08:18 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:08:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:08:18 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 15:08:19 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:08:19 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:08:24 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:09:39 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:13:06 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:13:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:18:20 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Skipped...........
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to navigate to URL: https://www.saucedemo.com/v1/ - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='user-name'] - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to type text into element: //input[@id='password'] - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 ERROR utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Failed to click on element: //input[@id='login-button'] - null
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test failure...........
+2025-01-12 15:21:35 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Page object is null. Skipping screenshot.
+2025-01-12 15:24:38 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:24:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:24:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:24:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:24:41 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:24:42 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin] - Test Success...........
+2025-01-12 15:24:44 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:24:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:24:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:24:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:24:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:24:44 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin2] - Test Success...........
+2025-01-12 15:24:46 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:24:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:24:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed standard_user into element: //input[@id='user-name']
+2025-01-12 15:24:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:24:46 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:24:47 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:24:48 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:24:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:24:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed problem_user into element: //input[@id='user-name']
+2025-01-12 15:24:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:24:48 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:24:49 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........
+2025-01-12 15:24:50 INFO  utils.LogManager - [Suite: ] [Test: ] - Test Started...........
+2025-01-12 15:24:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Navigated to URL: https://www.saucedemo.com/v1/
+2025-01-12 15:24:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed performance_glitch_user into element: //input[@id='user-name']
+2025-01-12 15:24:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Typed secret_sauce into element: //input[@id='password']
+2025-01-12 15:24:50 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Clicked on element: //input[@id='login-button']
+2025-01-12 15:24:56 INFO  utils.LogManager - [Suite: Ecommerce-Playwright Suite] [Test: testValidLogin3] - Test Success...........

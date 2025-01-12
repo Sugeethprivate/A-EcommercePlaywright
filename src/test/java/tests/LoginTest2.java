@@ -13,7 +13,7 @@ public class LoginTest2 extends BaseTest {
 
 
     @Test(dataProvider = "multipleLoginData", dataProviderClass = ExcelDataProvider.class)
-    public void testValidLogin2(String testcaseid, String password, String description, String username) {
+    public void testValidLogin3(String testcaseid, String password, String description, String username) {
         LoginPage loginPage = new LoginPage(getPage());
         loginPage.navigateToApp();
         loginPage.login(username, password);

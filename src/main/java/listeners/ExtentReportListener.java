@@ -58,6 +58,12 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
         testName.set(result.getMethod().getMethodName());
         ExtentTest extentTest = extent.createTest(result.getMethod().getMethodName());
         test.set(extentTest);
+        String[] groups = result.getMethod().getGroups();
+        if (groups.length > 0) {
+            for (String group : groups) {
+                test.get().assignCategory(group);  // Assign group as category
+            }
+        }
         test.get().pass("Test started \uD83D\uDE42");
         LogManager.logConsole("Test Started...........");
         ThreadContext.put("suiteName", result.getTestContext().getSuite().getName());

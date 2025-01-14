@@ -5,7 +5,7 @@ import dataproviders.ExcelDataProvider;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 
-
+import static constants.CodeAuthors.MADARA;
 import static constants.TestGroupConstants.SMOKE;
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class LoginTest2 extends BaseTest {
 
 
-    @Test(dataProvider = "multipleLoginData", dataProviderClass = ExcelDataProvider.class, groups={SMOKE})
+    @Test(dataProvider = "multipleLoginData", dataProviderClass = ExcelDataProvider.class, groups={SMOKE,MADARA})
     public void testValidLogin3(String testcaseid, String password, String description, String username) {
         LoginPage loginPage = new LoginPage(getPage());
         loginPage.navigateToApp();

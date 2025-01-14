@@ -9,7 +9,7 @@ import java.io.IOException;
 public class ExcelReportHelper {
     private static Workbook workbook;
     private static Sheet sheet;
-    private static final String FILE_PATH = "C:/Users/HP/eclipse-workspace/EcommercePlaywright-Java/ExcelReports/EcommerceTestResults.xlsx";
+    private static final String FILE_PATH = "./ExcelReports/EcommerceTestResults.xlsx";
     private static int rowCount = 1;
 
     public static synchronized void createExcelReport(String sheetName) {

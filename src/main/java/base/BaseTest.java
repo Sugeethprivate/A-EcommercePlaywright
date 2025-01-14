@@ -17,7 +17,7 @@ public class BaseTest {
     private static String browserName = ConfigReader.get("browser");
     private static String proxyUrl = ConfigReader.get("proxy");
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setup() {
         Playwright playwright = Playwright.create(); // Initialize Playwright
         Browser browser = null;
@@ -40,7 +40,7 @@ public class BaseTest {
         return pageThreadLocal.get();
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void tearDown() {
         if (browserThreadLocal.get() != null) browserThreadLocal.get().close();
         if (playwrightThreadLocal.get() != null) playwrightThreadLocal.get().close();

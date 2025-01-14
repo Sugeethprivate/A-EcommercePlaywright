@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 public class ExcelDataProvider {
-    private static final String EXCEL_FILE_PATH = "C:/Users/HP/eclipse-workspace/EcommercePlaywright-Java/src/test/resources/testdata/Testdata.xlsx"; // Update the path
+    private static final String EXCEL_FILE_PATH = "src/test/resources/testdata/Testdata.xlsx"; // Update the path
     private static final String MULTI_USER_DATA = "Multi User Credentials";
     private static final String SINGLE_USER_DATA = "Single User Credentials";
 

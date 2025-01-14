@@ -46,21 +46,30 @@ public class BaseTest {
         if (playwrightThreadLocal.get() != null) playwrightThreadLocal.get().close();
     }
 
-    @BeforeSuite
+    @BeforeSuite(alwaysRun = true)
     public void setupExcelReport() {
         ExcelReportHelper.createExcelReport("ValidationResults");
     }
 
-    @AfterSuite
+    @AfterSuite(alwaysRun = true)
     public void tearDownExcelReport() {
         ExcelReportHelper.closeExcelReport();
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void logTestResultToExcel(Method method, ITestResult result) {
         String testCaseId = "TC-" + result.getMethod().getMethodName().toUpperCase();
         String methodName = method.getName();
-        String status = result.isSuccess() ? "PASS" : "FAIL";
+        String status;
+        if (result.getStatus() == ITestResult.SUCCESS) {
+            status = "PASS";
+        } else if (result.getStatus() == ITestResult.FAILURE) {
+            status = "FAIL";
+        } else if (result.getStatus() == ITestResult.SKIP) {
+            status = "SKIP";
+        } else {
+            status = "UNKNOWN"; // This covers any other status (if any).
+        }
         ExcelReportHelper.updateExcelReport(testCaseId, methodName, status);
     }
 

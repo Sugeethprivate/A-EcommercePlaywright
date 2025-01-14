@@ -7,8 +7,7 @@
     <test name="Login Tests">
         <groups>
             <run>
-                <include name="smoke"/>
-                <include name="regression"/>
+                <include name="Smoke"/>
             </run>
         </groups>
         <classes>

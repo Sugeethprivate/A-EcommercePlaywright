@@ -40,6 +40,14 @@ public class BaseTest {
         return pageThreadLocal.get();
     }
 
+    public static Playwright getPlaywright() {
+        return playwrightThreadLocal.get();
+    }
+
+    public static Browser getBrowser() {
+        return browserThreadLocal.get();
+    }
+
     @AfterMethod(alwaysRun = true)
     public void tearDown() {
         if (browserThreadLocal.get() != null) browserThreadLocal.get().close();

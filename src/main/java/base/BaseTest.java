@@ -2,11 +2,13 @@ package base;
 
 import com.microsoft.playwright.*;
 import helpers.ExcelReportHelper;
+import helpers.TestNameChanger;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
 import utils.ConfigReader;
 
 import java.lang.reflect.Method;
+import java.nio.file.Paths;
 
 
 public class BaseTest {
@@ -16,6 +18,7 @@ public class BaseTest {
     private static boolean isHeadLess = ConfigReader.getBoolean("headless");
     private static String browserName = ConfigReader.get("browser");
     private static String proxyUrl = ConfigReader.get("proxy");
+    private static String setTrace = ConfigReader.get("traceViewer");
 
     @BeforeMethod(alwaysRun = true)
     public void setup() {
@@ -66,7 +69,7 @@ public class BaseTest {
 
     @AfterMethod(alwaysRun = true)
     public void logTestResultToExcel(Method method, ITestResult result) {
-        String testCaseId = "TC-" + result.getMethod().getMethodName().toUpperCase();
+        String testCaseId = "TC-" + TestNameChanger.changedTestName(result).toUpperCase();
         String methodName = method.getName();
         String status;
         if (result.getStatus() == ITestResult.SUCCESS) {
@@ -76,9 +79,30 @@ public class BaseTest {
         } else if (result.getStatus() == ITestResult.SKIP) {
             status = "SKIP";
         } else {
-            status = "UNKNOWN"; // This covers any other status (if any).
+            status = "UNKNOWN";
         }
         ExcelReportHelper.updateExcelReport(testCaseId, methodName, status);
     }
 
+    @BeforeMethod(alwaysRun = true)
+    public void startTrace(){
+        if (setTrace.equals("on")) {
+            getPage().context().tracing().start(new Tracing.StartOptions()
+                    .setScreenshots(true)
+                    .setSnapshots(true)
+                    .setSources(true));
+        }
+    }
+
+    @AfterMethod(alwaysRun = true)
+    public void stopTrace(ITestResult result){
+        if (setTrace.equals("on")) {
+            String tracePath = "traces/" + TestNameChanger.changedTestName(result) + ".zip";
+            try {
+                getPage().context().tracing().stop(new Tracing.StopOptions().setPath(Paths.get(tracePath)));
+            } catch (Exception e) {
+                System.out.println("Could not attach trace: " + e.getMessage());
+            }
+        }
+    }
 }

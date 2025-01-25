@@ -5,6 +5,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import helpers.ScreenshotHelper;
+import helpers.TestNameChanger;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -35,7 +36,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
         String timestamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
         String reportPath = "./ExtentReports/ExtentReport_" + timestamp + ".html";
         ExtentSparkReporter htmlReporter = new ExtentSparkReporter(reportPath);
-        htmlReporter.config().setTheme(Theme.DARK);
+        htmlReporter.config().setTheme(Theme.STANDARD);
         htmlReporter.config().setDocumentTitle("Test Report");
         htmlReporter.config().setReportName("Test Execution Report");
         extent = new ExtentReports();
@@ -56,7 +57,7 @@ public class ExtentReportListener implements ITestListener, ISuiteListener {
     public void onTestStart(ITestResult result) {
         suiteName.set(result.getTestContext().getSuite().getName());
         testName.set(result.getMethod().getMethodName());
-        ExtentTest extentTest = extent.createTest(result.getMethod().getMethodName());
+        ExtentTest extentTest = extent.createTest(TestNameChanger.changedTestName(result));
         test.set(extentTest);
         String[] groups = result.getMethod().getGroups();
         if (groups.length > 0) {

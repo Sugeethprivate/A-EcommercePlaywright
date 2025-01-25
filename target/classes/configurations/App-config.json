@@ -8,5 +8,6 @@
 	"environment":"QA",
 	"takeScreenshotOnPass":"no",
 	"takeScreenshotOnFail":"no",
-	"testRetryCountOnFail": 1
+	"testRetryCountOnFail": 1,
+	"traceViewer": "on"
 }

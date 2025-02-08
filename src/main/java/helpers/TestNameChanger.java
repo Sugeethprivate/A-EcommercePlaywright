@@ -6,11 +6,11 @@ public class TestNameChanger {
 
     public static String changedTestName(ITestResult result) {
         String testName = result.getMethod().getQualifiedName();
-        Object[] parameters = result.getParameters();
-        if (parameters.length > 0) {
-            testName = result.getMethod().getQualifiedName() + " [" + String.join(", ", toStringArrayWithoutLast(parameters)) + "]";
-            result.setTestName(testName);
-        }
+//        Object[] parameters = result.getParameters();
+//        if (parameters.length > 0) {
+//            testName = result.getMethod().getQualifiedName() + " [" + String.join(", ", toStringArrayWithoutLast(parameters)) + "]";
+//            result.setTestName(testName);
+//        }
 
         return testName;
     }
